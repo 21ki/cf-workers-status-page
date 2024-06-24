@@ -37,3 +37,9 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+
+  - id: rn
+    name: The Cloudflare Blog
+    url: 'https://rn.fvirus.org/'
+    method: GET
+    expectStatus: 200
