@@ -39,7 +39,7 @@ monitors:
     expectStatus: 200
 
   - id: rn
-    name: The Cloudflare Blog
-    url: 'https://rn.fvirus.org/'
+    name: nz
+    url: 'https://nz.fvirus.org/'
     method: GET
     expectStatus: 200
